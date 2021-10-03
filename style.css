@@ -1,0 +1,21 @@
+body{
+  background: url('фон.jpg');
+  background-size: 100% 100vh;
+  background-position: center center;
+  background-attachment: fixed;
+  color: white;
+  font-size: 20px;
+}
+p{
+  text-align: center;
+}
+caption{
+margin-bottom: 0.5%;
+}
+th{
+  padding: 1%;
+}
+img{
+  width: 500px;
+  height: 300px;
+}
